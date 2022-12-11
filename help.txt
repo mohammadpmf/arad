@@ -10,3 +10,5 @@ test e      avval
 
 
 test e      dovvom
+
+test e      chaharom
