@@ -8,3 +8,5 @@ def f():
 class Test():
     def __init__(self):
         print(3)
+
+print("arad")
